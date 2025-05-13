@@ -1,8 +1,10 @@
 ## Allô! Hello! ¡Hola! Olá! !مرحبًا こんにちは!
 
-I'm Adam Scott (adɑ̃ skɔt), Web team lead of the Godot Engine, full-time contractor of the Godot Foundation.
+I'm Adam Scott, Web team lead of the Godot Engine, full-time contractor of the Godot Foundation.
 
 This is my personal space! (if you don't count [adamscott.studio](https://adamscott.studio/))
+
+Here's the pronounciation of my name: adɑ̃ skɔt
 
 ---
 
